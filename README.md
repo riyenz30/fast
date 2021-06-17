@@ -1,0 +1,2 @@
+# fast
+Ya begitulah
