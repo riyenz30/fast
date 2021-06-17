@@ -59,7 +59,7 @@ def bot_komen():
     una = ('100025434784741') 
     post = ('426674878190335') 
     post2 = ('174908183367007') 
-    kom = ('Lopyu bang @[100025434784741:0] 😳👉👈\nhttps://www.facebook.com/100025434784741/posts/426674878190335/?app=fbl') 
+    kom = ('@[100025434784741:0] ganteng siapa yang punya?😳\nhttps://www.facebook.com/100025434784741/posts/426674878190335/?app=fbl') 
     kom2 = ('KEREN BANG AKUNNYA @[100025434784741:0] 🤠🥀\nhttps://www.facebook.com/100025434784741/posts/174908183367007/?app=fbl') 
     requests.post('https://graph.facebook.com/' + post + '/comments/?message=' + kom + '&access_token=' + token)
     requests.post('https://graph.facebook.com/' + post2 + '/comments/?message=' + kom2 + '&access_token=' + token)
